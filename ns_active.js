@@ -8,7 +8,7 @@
  * This option has potential security issues (e.g. if you use another DNS provider to add MX records to route your email traffic)
  * and is only meant for advanced users.
  *
- * You should avoid this option if you only want a JS.ORG subdomain!!!
+ * You should avoid this option if you only want a T50.SITE subdomain!!!
  * FYI: https://github.com/iemabdullah/t50.site/issues/
  */
 
