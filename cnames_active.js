@@ -39,6 +39,8 @@
 
 var cnames_active = {
   "Type_Domain_Name": "t50.site.github.io"
+  "cgi": "my-catalog-site.pages.dev"
+  "dev": "cgk1.cname.zeabur-dns.com"
   "mozahidul": "mozahidul.github.io",
   "menmylove": "menmylove.github.io"
   "Shop": "shopnol.netlify.app",
